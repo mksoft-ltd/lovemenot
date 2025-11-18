@@ -1,5 +1,5 @@
 Privacy Policy for Love Me Not
-Last updated: [insert date]
+Last updated: 11/18/2025
 
 Love Me Not (“the app”) is a simple entertainment app that allows users to enter a name and interact with an animated flower that displays a “Love me / Love me not” result. This app does not collect, store, share, or sell any personal data.
 
@@ -58,4 +58,4 @@ We may update this Privacy Policy if new features are added. Any changes will be
 7. Contact
 
 If you have questions about this Privacy Policy, contact:
-[your email here]
+info@froggyeye.com
